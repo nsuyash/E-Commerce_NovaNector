@@ -1,8 +1,7 @@
-# React + Vite
+<hr />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# E-Commerce Website
 
-Currently, two official plugins are available:
+Welcome to the E-Commerce Website project! This project is part of Task 2 for the NovaNector Internship program. The goal of this project is to build a functional e-commerce platform where users can browse, search, and purchase products.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<hr />
